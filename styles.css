@@ -1,0 +1,110 @@
+.container {
+    background-color: #b6d8ff;
+    width: 600px;
+    height: 800px;
+    margin: auto;
+    position: relative;
+    top: 20px;
+}
+
+.joinus {
+    background-color: aliceblue;
+    width: 450px;
+    height: 600px;
+    margin: auto;
+    position: relative;
+    top: 90px;
+}
+
+h2 {
+    text-align: center;
+    
+}
+
+h1 {
+    text-align: center
+}
+
+.line
+{
+    position: absolute;
+    top: 205px;
+    left: 130px;
+    
+    
+}
+
+.line1{
+    position: absolute;
+    left:249px;
+    top:300px;
+  transform: scaleX(-1);
+}
+
+.line2{
+    position: absolute;
+    left: 133px;
+    top: 300px;
+}
+
+.line3{
+    position:absolute;
+    left:250px;
+    top:205px;
+    transform: scaleX(-1);
+}
+
+.venue{
+    position: absolute;
+    top:410px;
+    left: 110px;
+}
+
+.rsvp
+{
+  position: relative;
+    top: 130px;
+   margin: auto;
+    width: 50px;
+    height: 25px;
+    text-align: center;
+    background-color: #ff9dce
+        
+}
+
+.container2{
+    background-color: #f5d9e7;
+    width: 600px;
+    height: 800px;
+    margin: auto;
+    position: relative;
+    top: 20px;
+    
+}
+
+.joinus2 {
+    background-color: aliceblue;
+    width: 450px;
+    height: 600px;
+    margin: auto;
+    position: relative;
+    top: 90px;
+}
+
+h3{
+    text-align: center
+}
+
+.colors{
+  position: relative;
+    left: 120px;
+
+    
+}
+
+.clickme{
+    position: relative;
+    top: 165px;
+    left: 150px;
+}
+
